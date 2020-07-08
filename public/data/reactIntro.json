@@ -1,0 +1,274 @@
+{
+    "questionsList": [
+        {
+            "question": "Who make Reactjs?",
+            "questionId": "1",
+            "showAnswer": false,
+            "options": [
+                {
+                    "questionNumber": "A",
+                    "questionLabel": "Google"
+                },
+                {
+                    "questionNumber": "B",
+                    "questionLabel": "Adobe"
+                },
+                {
+                    "questionNumber": "C",
+                    "questionLabel": "Facebook"
+                },
+                {
+                    "questionNumber": "D",
+                    "questionLabel": "Oracle"
+                }
+            ],
+            "answer": {
+                "questionNumber": "C",
+                "description": "Facebook"
+            }
+        },
+        {
+            "question": "React is a ________",
+            "questionId": "2",
+            "showAnswer": false,
+            "options": [
+                {
+                    "questionNumber": "A",
+                    "questionLabel": "Javascript library"
+                },
+                {
+                    "questionNumber": "B",
+                    "questionLabel": "Javascript framework"
+                },
+                {
+                    "questionNumber": "C",
+                    "questionLabel": "None of above"
+                },
+                {
+                    "questionNumber": "D",
+                    "questionLabel": "All of above"
+                }
+            ],
+            "answer": {
+                "questionNumber": "A",
+                "description": "Javascript library"
+            }
+        },
+        {
+            "question": "Why Reactjs is in market?",
+            "questionId": "3",
+            "showAnswer": false,
+            "options": [
+                {
+                    "questionNumber": "A",
+                    "questionLabel": "For making reusable component"
+                },
+                {
+                    "questionNumber": "B",
+                    "questionLabel": "Saving development time"
+                },
+                {
+                    "questionNumber": "C",
+                    "questionLabel": "Both A and B"
+                },
+                {
+                    "questionNumber": "D",
+                    "questionLabel": "None of above"
+                }
+            ],
+            "answer": {
+                "questionNumber": "C",
+                "description": "Both A and B"
+            }
+        },
+        {
+            "question": "Why Reactjs is Fast?",
+            "questionId": "4",
+            "showAnswer": false,
+            "options": [
+                {
+                    "questionNumber": "A",
+                    "questionLabel": "Virtual DOM concept"
+                },
+                {
+                    "questionNumber": "B",
+                    "questionLabel": "Real DOM"
+                },
+                {
+                    "questionNumber": "C",
+                    "questionLabel": "None of above"
+                },
+                {
+                    "questionNumber": "D",
+                    "questionLabel": "All of above"
+                }
+            ],
+            "answer": {
+                "questionNumber": "A",
+                "description": "Virtual DOM concept"
+            }
+        },
+        {
+            "question": "Reactjs data flow is _______",
+            "questionId": "5",
+            "showAnswer": false,
+            "options": [
+                {
+                    "questionNumber": "A",
+                    "questionLabel": "Two directional data flow"
+                },
+                {
+                    "questionNumber": "B",
+                    "questionLabel": "Unidirectional data flow"
+                },
+                {
+                    "questionNumber": "C",
+                    "questionLabel": "Multidirectional data flow"
+                },
+                {
+                    "questionNumber": "D",
+                    "questionLabel": "None of above"
+                }
+            ],
+            "answer": {
+                "questionNumber": "B",
+                "description": "Unidirectional data flow"
+            }
+        },
+        {
+            "question": "What are the uses of Reactjs?",
+            "questionId": "6",
+            "showAnswer": false,
+            "options": [
+                {
+                    "questionNumber": "A",
+                    "questionLabel": "Creation of Dynamic web applications is easier."
+                },
+                {
+                    "questionNumber": "B",
+                    "questionLabel": "For Increasing productivity."
+                },
+                {
+                    "questionNumber": "C",
+                    "questionLabel": "Helps in maintenance."
+                },
+                {
+                    "questionNumber": "D",
+                    "questionLabel": "All of above"
+                }
+            ],
+            "answer": {
+                "questionNumber": "D",
+                "description": "All of above"
+            }
+        },
+        {
+            "question": "Reactjs works for which layer?",
+            "questionId": "7",
+            "showAnswer": false,
+            "options": [
+                {
+                    "questionNumber": "A",
+                    "questionLabel": "Model Layer"
+                },
+                {
+                    "questionNumber": "B",
+                    "questionLabel": "View Layer"
+                },
+                {
+                    "questionNumber": "C",
+                    "questionLabel": "Controller Layer"
+                },
+                {
+                    "questionNumber": "D",
+                    "questionLabel": "None of above"
+                }
+            ],
+            "answer": {
+                "questionNumber": "B",
+                "description": "View Layer"
+            }
+        },
+        {
+            "question": "What is component in reactjs?",
+            "questionId": "8",
+            "showAnswer": false,
+            "options": [
+                {
+                    "questionNumber": "A",
+                    "questionLabel": "Independent and reusable bits of code"
+                },
+                {
+                    "questionNumber": "B",
+                    "questionLabel": "Arguments passed into React components"
+                },
+                {
+                    "questionNumber": "C",
+                    "questionLabel": "Object is for storing data for particular component."
+                },
+                {
+                    "questionNumber": "D",
+                    "questionLabel": "All of above"
+                }
+            ],
+            "answer": {
+                "questionNumber": "A",
+                "description": "Independent and reusable bits of code"
+            }
+        },
+        {
+            "question": "What is props in Reactjs?",
+            "questionId": "9",
+            "showAnswer": false,
+            "options": [
+                {
+                    "questionNumber": "A",
+                    "questionLabel": "Independent and reusable bits of code"
+                },
+                {
+                    "questionNumber": "B",
+                    "questionLabel": "Arguments passed into React components"
+                },
+                {
+                    "questionNumber": "C",
+                    "questionLabel": "Object is for storing data for particular component."
+                },
+                {
+                    "questionNumber": "D",
+                    "questionLabel": "All of above"
+                }
+            ],
+            "answer": {
+                "questionNumber": "B",
+                "description": "Arguments passed into React components"
+            }
+        },
+        {
+            "question": "What is state in reactjs?",
+            "questionId": "10",
+            "showAnswer": false,
+            "options": [
+                {
+                    "questionNumber": "A",
+                    "questionLabel": "Independent and reusable bits of code"
+                },
+                {
+                    "questionNumber": "B",
+                    "questionLabel": "Arguments passed into React components"
+                },
+                {
+                    "questionNumber": "C",
+                    "questionLabel": "Object is for storing data for particular component."
+                },
+                {
+                    "questionNumber": "D",
+                    "questionLabel": "None of the above"
+                }
+            ],
+            "answer": {
+                "questionNumber": "C",
+                "description": "Object is for storing data for particular component."
+            }
+        }
+    ]
+}
